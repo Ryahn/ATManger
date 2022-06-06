@@ -1,0 +1,10 @@
+{
+
+    "OWNER_ID":"72884988374167552",
+    "BOT_TOKEN": "",
+    "DEFAULT_PREFIX":".",
+    "mongoPass": "mongodb://localhost:27017/atm",
+    "ERROR_LOGS_CHANNEL": "980826627242078260",
+    "MAX_STRIKES": 3
+}
+
